@@ -1,5 +1,7 @@
+I"	<!--more-->
+
 <div class="iframe-holder-loading">
-  <iframe class='figure-frame' src="/assets/files/interactive_krona_plot/krona.html" width="100%" height="850" frameborder="yes" onload="removeLoading()" ></iframe>
+  <iframe class="figure-frame" src="/assets/files/interactive_krona_plot/krona.html" width="100%" height="100%" frameborder="yes" onload="removeLoading()"></iframe>
 </div>
 
 <script>
@@ -11,3 +13,5 @@
     el_container.style.background = 'white'
   }
 </script>
+
+:ET

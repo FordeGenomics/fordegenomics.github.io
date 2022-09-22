@@ -64,11 +64,11 @@ nav a { margin: .5em 1.2em; }
 
 .home-feature { padding-top: 50px; margin: 0 0 20px 0; text-align: center; height: 250px; background: url("/assets/img/home_feature_bg.png") center no-repeat; }
 
-.figure-frame { border: 1px solid gray; padding: 5px; }
+.figure-frame { border: 1px solid gray; padding: 5px; overflow: auto; }
 
 .iframe-holder-loading { background: url("/assets/img/hourglass_loading.gif") center no-repeat; }
 
-.footer { font-size: 10pt; text-align: left; background: lightgray; }
+.footer { font-size: 10pt; text-align: left; }
 
 .embed-container-loading { background: url("/assets/img/hourglass_loading.gif") center no-repeat; border: 1px solid gray; position: relative; margin: 1.5em 0; padding-bottom: 56.25%; }
 

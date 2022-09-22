@@ -1,0 +1,28 @@
+I".
+<article>
+    <header>
+  <h2><a href="/detect">DETECT</a></h2>
+</header>
+<!--<time datetime="2022-09-23T09:34:20+10:00">September 23, 2022</time>
+-->
+    <p>Interactive Krona plot showing lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. aliqua.</p>
+
+
+    <div class="more"><a href="/detect">read more</a></div>
+    <hr />
+  </article>
+
+<article>
+    <header>
+  <h2><a href="/cathai">CATHAI: Cluster analysis tool for healthcare-associated infections</a></h2>
+</header>
+<!--<time datetime="2022-09-23T09:34:20+10:00">September 23, 2022</time>
+-->
+    <p>CATHAI (cluster analysis tool for healthcare-associated infections) is an interactive web-based visualization platform that couples WGS informed clustering with associated metadata, thereby converting sequencing data into informative and accessible clinical information for the management of healthcare-associated infections (HAI) and nosocomial outbreaks.</p>
+
+
+    <div class="more"><a href="/cathai">read more</a></div>
+    <hr />
+  </article>
+
+:ET
