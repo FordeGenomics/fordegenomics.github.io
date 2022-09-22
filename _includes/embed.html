@@ -1,0 +1,10 @@
+<div class="embed-container-loading">
+  <iframe style="position: absolute;" src="{{ include.url }}" width="100%" height="100%" frameborder="0" allowfullscreen onload="removeLoading()"></iframe>
+</div>
+
+<script>
+  var removeLoading = function(){
+    var el = document.getElementsByClassName('embed-container-loading')[0]
+    el.style.background = 'none'
+  }
+</script>

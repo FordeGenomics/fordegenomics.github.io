@@ -1,0 +1,10 @@
+{%- assign posts = paginator.projects | default: site.projects -%}
+{% for post in posts %}
+  <article>
+    {% include meta.html post=post preview=false %}
+    {{ post.excerpt }}
+    <div class="more"><a href="{{ post.url }}">read more</a></div>
+    <hr/>
+  </article>
+{% endfor %}
+

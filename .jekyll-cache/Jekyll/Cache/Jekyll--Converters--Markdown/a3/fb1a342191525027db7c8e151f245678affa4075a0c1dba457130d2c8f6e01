@@ -1,0 +1,11 @@
+I"�<p>CATHAI (cluster analysis tool for healthcare-associated infections) is an interactive web-based visualization platform that couples WGS informed clustering with associated metadata, thereby converting sequencing data into informative and accessible clinical information for the management of healthcare-associated infections (HAI) and nosocomial outbreaks.</p>
+
+<!--more-->
+
+<p>All code associated with this application are free available from <a href="https://github.com/FordeGenomics/cathai">CATHAI’s github</a>. A demonstration version of CATHAI is available online at <a href="https://cathai.fordelab.com">cathai.fordelab.com</a>.</p>
+
+<h3 id="read-our-paper-here">Read our paper <a href="https://doi.org/10.1093/bioadv/vbac040">here.</a></h3>
+
+<p><img src="/assets/img/cathai_figure1.jpeg" alt="CATHAI" />
+Figure:Clustering of clinical Enterococcus faecium isolates. CATHAI interface consists of three linked panels—an epidemic curve (A), clustering plot (B) and control panel (C).</p>
+:ET

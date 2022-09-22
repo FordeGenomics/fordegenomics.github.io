@@ -1,0 +1,37 @@
+title: "FordeGenomics"
+author: "FordeGenomics"
+subtitle: "Microbial Genomics | Bioinformatics | Genomic Epidemiology"
+description: "FordeGenomics github page"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: true # show article excerpts on the home page
+show_frame: false # adds a gray frame to the site
+show_sidebar: false # show a sidebar instead of the usual header
+minimal: true # use a dark header
+
+# Menu
+
+navigation: # accepts {file, title, url, icon, sidebaricon}
+  - { file: "page_about.md" }
+  - { file: "page_projects.md" }
+#  - { file: "page_publications.md" }
+
+external: # shows a footer with social links - for available icons see fontawesome.com/icons
+  - { title: Github, icon: github, url: "https://github.com/FordeGenomics/" }
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+  - jekyll-feed
+
+# Collections
+collections:
+  projects:
+    output: true

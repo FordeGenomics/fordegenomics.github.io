@@ -1,0 +1,16 @@
+I"%<p>Interactive Krona plot showing lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. aliqua.</p>
+
+<!--more-->
+
+<div class="iframe-holder-loading">
+  <iframe class="figure-frame" src="/assets/files/interactive_krona_plot/krona.html" width="100%" height="500" frameborder="yes" onload="removeLoading()"></iframe>
+</div>
+
+<script>
+  var removeLoading = function(){
+    var el = document.getElementsByClassName('iframe-holder-loading')[0]
+    el.style.background = 'none'
+  }
+</script>
+
+:ET
