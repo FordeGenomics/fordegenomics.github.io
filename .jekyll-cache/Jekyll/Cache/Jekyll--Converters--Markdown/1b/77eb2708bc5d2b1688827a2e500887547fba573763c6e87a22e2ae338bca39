@@ -1,7 +1,7 @@
-I"	<!--more-->
+I"<!--more-->
 
 <div class="iframe-holder-loading">
-  <iframe class="figure-frame" src="/assets/files/interactive_krona_plot/krona.html" width="100%" height="1000" frameborder="yes" onload="removeLoading()"></iframe>
+  <iframe class="figure-frame" src="/assets/files/interactive_krona_plot/krona_direct.html" width="100%" height="850" frameborder="yes" onload="removeLoading()"></iframe>
 </div>
 
 <script>
