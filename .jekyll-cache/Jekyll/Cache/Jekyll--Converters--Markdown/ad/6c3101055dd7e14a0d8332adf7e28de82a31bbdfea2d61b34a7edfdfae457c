@@ -1,0 +1,39 @@
+I"p
+<article>
+    <header>
+  <h2><a href="/detect">DETECT</a></h2>
+</header>
+<!--<time datetime="2023-03-15T13:58:07+10:00">March 15, 2023</time>
+-->
+    
+
+    <div class="more"><a href="/detect">read more</a></div>
+    <hr />
+  </article>
+
+<article>
+    <header>
+  <h2><a href="/direct">DIRECT</a></h2>
+</header>
+<!--<time datetime="2023-03-15T13:58:07+10:00">March 15, 2023</time>
+-->
+    
+
+    <div class="more"><a href="/direct">read more</a></div>
+    <hr />
+  </article>
+
+<article>
+    <header>
+  <h2><a href="/cathai">CATHAI: Cluster analysis tool for healthcare-associated infections</a></h2>
+</header>
+<!--<time datetime="2023-03-15T13:58:07+10:00">March 15, 2023</time>
+-->
+    <p>CATHAI (cluster analysis tool for healthcare-associated infections) is an interactive web-based visualization platform that couples WGS informed clustering with associated metadata, thereby converting sequencing data into informative and accessible clinical information for the management of healthcare-associated infections (HAI) and nosocomial outbreaks.</p>
+
+
+    <div class="more"><a href="/cathai">read more</a></div>
+    <hr />
+  </article>
+
+:ET
