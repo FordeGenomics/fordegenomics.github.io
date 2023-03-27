@@ -4,4 +4,8 @@ permalink: "/about/"
 layout: page
 ---
 
-Content of page About here
+Welcome to Fordelab, a microbial genomics research lab headed by Brian Forde. Brian is a microbial bioinformatics expert and an Advance Queensland Industry Research Fellow at the Centre for Clinical Research (CCR) at the University of Queensland.
+
+Brian completed his PhD at University College Cork, Ireland, in 2013 and continued his work in bacterial genomics as a postdoctoral fellow at the UQ School of Chemistry and Molecular Biosciences (SCMB). Since 2017, he has been part of a multidisciplinary team that includes researchers, infectious diseases clinicians, and infection control professionals, leading the introduction of whole genome sequencing (WGS) to investigate hospital-acquired infections in Queensland through the Queensland Genomics initiative. In recognition of his outstanding work, Brian was awarded the Advance Queensland Industry Research Fellowship in 2020 to explore the application of artificial intelligence to genomic surveillance and transmission dynamics.
+
+At Fordelab, our mission is to better understand the evolution of antibiotic resistance, genomic epidemiology, genomic surveillance of infectious diseases, and translate our genomic research into clinical practice. We are passionate about utilising and developing genomic and bioinformatics approaches to characterize the emergence and spread of multidrug-resistant organisms and track the spread of infections within hospitals and other clinical settings.

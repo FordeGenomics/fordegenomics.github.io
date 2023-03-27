@@ -66,7 +66,7 @@ nav a { margin: .5em 1.2em; }
 
 .figure-frame { border: 1px solid gray; padding: 5px; overflow: auto; }
 
-.iframe-holder-loading { background: url("/assets/img/hourglass_loading.gif") center no-repeat; }
+.iframe-holder-loading { background-color: white; background: url("/assets/img/hourglass_loading.gif") center no-repeat; }
 
 .footer { font-size: 10pt; text-align: left; }
 

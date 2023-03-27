@@ -1,38 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<title>Home | FordeGenomics</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="author" content="FordeGenomics">
-<meta name="generator" content="Jekyll v4.2.2">
-<link rel="canonical" href="http://localhost:4000/">
-
-<link rel="stylesheet" href="/assets/css/index.css">
-
-<link rel="alternate" href="/feed.xml" type="application/atom+xml" title="FordeGenomics">
-
-
-
-
-
-
-
-<header>
-  <a href="/" class="title">FordeGenomics</a>
-  <nav><a href="/about/" >About</a><a href="/projects/" >Projects</a></nav>
-
-</header>
-
-
-  
-  <div class="home-feature">
-    <h2>Microbial Genomics | Bioinformatics | Genomic Epidemiology</h2>
-    
-  </div>
-
-
-
-  <article>
+I"ˆ	
+<article>
     <header>
   <h2><a href="/detect">DETECT</a></h2>
 </header>
@@ -41,9 +8,10 @@
     
 
     <div class="more"><a href="/detect">read more</a></div>
+    <hr />
   </article>
 
-  <article>
+<article>
     <header>
   <h2><a href="/direct">DIRECT</a></h2>
 </header>
@@ -52,9 +20,10 @@
     
 
     <div class="more"><a href="/direct">read more</a></div>
+    <hr />
   </article>
 
-  <article>
+<article>
     <header>
   <h2><a href="/cathai">CATHAI: Cluster analysis tool for healthcare-associated infections</a></h2>
 </header>
@@ -64,9 +33,10 @@
 
 
     <div class="more"><a href="/cathai">read more</a></div>
+    <hr />
   </article>
 
-  <article>
+<article>
     <header>
   <h2><a href="/graphsnp">GraphSNP: An interactive distance viewer for investigating outbreaks and transmission networks using a graph approach</a></h2>
 </header>
@@ -76,9 +46,10 @@
 
 
     <div class="more"><a href="/graphsnp">read more</a></div>
+    <hr />
   </article>
 
-  <article>
+<article>
     <header>
   <h2><a href="/haiviz">HAIviz: An interactive healthcare-associated infection visualisation tool for integrating and communicating genomic epidemiological information of local outbreaks</a></h2>
 </header>
@@ -88,25 +59,7 @@
 
 
     <div class="more"><a href="/haiviz">read more</a></div>
+    <hr />
   </article>
 
-
-
-
-
-
-
-
-<footer class="footer">
-  <div>
-    <p> Â© <script>document.write(new Date().getFullYear())</script>
-       FordeGenomics. Powered by 
-       <a target="_blank" href="http://jekyllrb.com/">Jekyll</a>  based on 
-       <a target="_blank" href="https://jekyllthemes.io/theme/contrast">Contrast theme</a>
-  </div>
-  <nav><a href="https://github.com/FordeGenomics/" ><svg aria-label="Github" class="icon"><use xlink:href="/assets/fontawesome/icons.svg#github"></use></svg></a></nav>
-
-</footer>
-
-
-</html>
+:ET

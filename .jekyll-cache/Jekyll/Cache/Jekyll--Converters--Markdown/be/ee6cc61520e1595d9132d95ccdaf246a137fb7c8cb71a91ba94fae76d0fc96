@@ -1,36 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<title>Projects | FordeGenomics</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="author" content="FordeGenomics">
-<meta name="generator" content="Jekyll v4.2.2">
-<link rel="canonical" href="http://localhost:4000/projects/">
-
-<link rel="stylesheet" href="/assets/css/index.css">
-
-<link rel="alternate" href="/feed.xml" type="application/atom+xml" title="FordeGenomics">
-
-
-
-
-
-
-
-<header>
-  <a href="/" class="title">FordeGenomics</a>
-  <nav><a href="/about/" >About</a><a href="/projects/" class="selected">Projects</a></nav>
-
-</header>
-
-<article>
-  <header><h1><a href="/projects/">Projects</a></h1></header>
-  
+I"Y	
 <article>
     <header>
   <h2><a href="/detect">DETECT</a></h2>
 </header>
-<!--<time datetime="2023-03-27T12:27:36+10:00">March 27, 2023</time>
+<!--<time datetime="2023-03-27T12:26:47+10:00">March 27, 2023</time>
 -->
     
 
@@ -42,7 +15,7 @@
     <header>
   <h2><a href="/direct">DIRECT</a></h2>
 </header>
-<!--<time datetime="2023-03-27T12:27:36+10:00">March 27, 2023</time>
+<!--<time datetime="2023-03-27T12:26:47+10:00">March 27, 2023</time>
 -->
     
 
@@ -54,7 +27,7 @@
     <header>
   <h2><a href="/cathai">CATHAI: Cluster analysis tool for healthcare-associated infections</a></h2>
 </header>
-<!--<time datetime="2023-03-27T12:27:36+10:00">March 27, 2023</time>
+<!--<time datetime="2023-03-27T12:26:47+10:00">March 27, 2023</time>
 -->
     <p>CATHAI (cluster analysis tool for healthcare-associated infections) is an interactive web-based visualization platform that couples WGS informed clustering with associated metadata, thereby converting sequencing data into informative and accessible clinical information for the management of healthcare-associated infections (HAI) and nosocomial outbreaks.</p>
 
@@ -67,7 +40,7 @@
     <header>
   <h2><a href="/graphsnp">GraphSNP: An interactive distance viewer for investigating outbreaks and transmission networks using a graph approach</a></h2>
 </header>
-<!--<time datetime="2023-03-27T12:27:36+10:00">March 27, 2023</time>
+<!--<time datetime="2023-03-27T12:26:47+10:00">March 27, 2023</time>
 -->
     <p>GraphSNP is an interactive visualisation tool running in a web browser that allows users to rapidly generate pairwise SNP distance networks, investigate SNP distance distributions, identify clusters of related organisms, and reconstruct transmission routes.</p>
 
@@ -78,9 +51,9 @@
 
 <article>
     <header>
-  <h2><a href="/haiviz">HAIviz: An interactive healthcare-associated infection visualisation tool for integrating and communicating genomic epidemiological information of local outbreaks</a></h2>
+  <h2><a href="/haiviz">HAIviz: An interactive distance viewer for investigating outbreaks and transmission networks using a graph approach</a></h2>
 </header>
-<!--<time datetime="2023-03-27T12:27:36+10:00">March 27, 2023</time>
+<!--<time datetime="2023-03-27T12:26:47+10:00">March 27, 2023</time>
 -->
     <p>HAIviz is a single page visualization application designed to help infection control professionals to interactively visualize, integrate, and communicate information related with genomic epidemiological investigation at the local setting, such as hospital and other healthcare settings.</p>
 
@@ -89,21 +62,4 @@
     <hr />
   </article>
 
-
-</article>
-
-
-
-<footer class="footer">
-  <div>
-    <p> © <script>document.write(new Date().getFullYear())</script>
-       FordeGenomics. Powered by 
-       <a target="_blank" href="http://jekyllrb.com/">Jekyll</a>  based on 
-       <a target="_blank" href="https://jekyllthemes.io/theme/contrast">Contrast theme</a>
-  </div>
-  <nav><a href="https://github.com/FordeGenomics/" ><svg aria-label="Github" class="icon"><use xlink:href="/assets/fontawesome/icons.svg#github"></use></svg></a></nav>
-
-</footer>
-
-
-</html>
+:ET

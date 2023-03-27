@@ -1,0 +1,65 @@
+I"B	
+<article>
+    <header>
+  <h2><a href="/detect">DETECT</a></h2>
+</header>
+<!--<time datetime="2023-03-27T12:24:06+10:00">March 27, 2023</time>
+-->
+    
+
+    <div class="more"><a href="/detect">read more</a></div>
+    <hr />
+  </article>
+
+<article>
+    <header>
+  <h2><a href="/direct">DIRECT</a></h2>
+</header>
+<!--<time datetime="2023-03-27T12:24:06+10:00">March 27, 2023</time>
+-->
+    
+
+    <div class="more"><a href="/direct">read more</a></div>
+    <hr />
+  </article>
+
+<article>
+    <header>
+  <h2><a href="/cathai">CATHAI: Cluster analysis tool for healthcare-associated infections</a></h2>
+</header>
+<!--<time datetime="2023-03-27T12:24:06+10:00">March 27, 2023</time>
+-->
+    <p>CATHAI (cluster analysis tool for healthcare-associated infections) is an interactive web-based visualization platform that couples WGS informed clustering with associated metadata, thereby converting sequencing data into informative and accessible clinical information for the management of healthcare-associated infections (HAI) and nosocomial outbreaks.</p>
+
+
+    <div class="more"><a href="/cathai">read more</a></div>
+    <hr />
+  </article>
+
+<article>
+    <header>
+  <h2><a href="/graphsnp">GraphSNP: An interactive distance viewer for investigating outbreaks and transmission networks using a graph approach</a></h2>
+</header>
+<!--<time datetime="2023-03-27T12:24:06+10:00">March 27, 2023</time>
+-->
+    <p>GraphSNP is an interactive visualisation tool running in a web browser that allows users to rapidly generate pairwise SNP distance networks, investigate SNP distance distributions, identify clusters of related organisms, and reconstruct transmission routes.</p>
+
+
+    <div class="more"><a href="/graphsnp">read more</a></div>
+    <hr />
+  </article>
+
+<article>
+    <header>
+  <h2><a href="/graphsnp">GraphSNP: An interactive distance viewer for investigating outbreaks and transmission networks using a graph approach</a></h2>
+</header>
+<!--<time datetime="2023-03-27T12:24:06+10:00">March 27, 2023</time>
+-->
+    <p>GraphSNP is an interactive visualisation tool running in a web browser that allows users to rapidly generate pairwise SNP distance networks, investigate SNP distance distributions, identify clusters of related organisms, and reconstruct transmission routes.</p>
+
+
+    <div class="more"><a href="/graphsnp">read more</a></div>
+    <hr />
+  </article>
+
+:ET

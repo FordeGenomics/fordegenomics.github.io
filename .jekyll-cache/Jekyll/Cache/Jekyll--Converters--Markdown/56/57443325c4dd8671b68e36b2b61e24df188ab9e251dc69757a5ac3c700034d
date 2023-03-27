@@ -1,0 +1,28 @@
+I"�<p>HAIviz is a single page visualization application designed to help infection control professionals to interactively visualize, integrate, and communicate information related with genomic epidemiological investigation at the local setting, such as hospital and other healthcare settings.</p>
+
+<!--more-->
+
+<h2 id="when-to-use">When to use</h2>
+
+<p>HAIviz can be useful for you when you want to:</p>
+
+<ul>
+  <li>Visualize outbreaks on a customized local map</li>
+  <li>Integrate transmission information with phylogeny</li>
+  <li>Visualise location movements (e.g, patient’s ward or bed movement)</li>
+  <li>Explore data using interactive visualisation</li>
+  <li>Animate the occurance of the outbreak cases using interactive timeline</li>
+  <li>Rapidly create and download genomic epidemiological related visualisation</li>
+</ul>
+
+<h2 id="how-to-use">How to use</h2>
+
+<p>To start using HAIviz, visit HAIviz’s website, click HAIviz App, input the required file(s) and display the relevant visualization window from the menu. Check the documentation for more instructions.</p>
+
+<p>The source code associated with this tool is free available from <a href="https://github.com/nalarbp/haiviz">HAiviz’s github</a></p>
+
+<p>A demonstration version of GraphSNP is available online at <a href="https://haiviz.fordelab.com">haiviz.fordelab.com</a> and <a href="https://haiviz.beatsonlab.com">haiviz.beatsonlab.com</a></p>
+
+<p><img src="/assets/img/haiviz_figure4.png" alt="HAIviz" />
+Figure: HAIviz visualises the outbreak of multidrug-resistant Klebsiella pneumonia at a major hospital in Nepal. (A) The phylogenetic tree highlights two K. pneumonia sequence type clade (ST15 and ST1559). (B) Proportion of study isolates based on the sequence type. Colour was interactively assigned using a colour picker to accentuate selected STs (ST15: blue, ST1559: yellow). (C) The hospital layout shows the composition of STs in each room. (D) A stacked bar chart displays the number of collected isolates (scaled weekly).</p>
+:ET
